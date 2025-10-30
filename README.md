@@ -1,0 +1,2 @@
+# Create_warm_prompt_window
+创建满屏的温馨提示窗口
